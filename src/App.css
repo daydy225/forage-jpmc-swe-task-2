@@ -39,6 +39,24 @@
   margin-bottom: 12px;
 }
 
+/* Debug css */
+.debug {
+  width: 100%;
+  border: 2px solid red;
+  border-radius: 5px;
+}
+
+.debug-yellow {
+  width: fit-content;
+  border:2px solid yellow;
+  border-radius: 5px;
+}
+
+.debug-blue {
+  border:2px solid blue;
+  border-radius: 5px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
